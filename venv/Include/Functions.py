@@ -134,3 +134,12 @@ its possible to pass a fun as parameter to another function
 # fun = display()
 # print(fun())   # we are returing another function
 
+''' program to pass list and modify it'''
+def modify(lst):
+    ''' to add a new element into existing list'''
+    lst.append(10)
+    print(lst,id(lst))
+# call modify() and pass lst
+lst=[1,2,3,4]
+modify(lst)
+print(lst,id(lst))
