@@ -12,7 +12,7 @@ Syntax: arrayname=array(type code, [elements])
   I        -       unsigned interger        2
   l         -   signed integer              4
   L         -      Unsigned Interger        4
-  f     -       floating point      4
+  f    -       floating point      4
   d         -       double floating point   8
   u            -    unicode character        2
   

@@ -3,11 +3,11 @@ if, if else, if elif, else suite,for , while, pass, return, assert ,break, conti
 prgm with same indentation is suite '''
 
 '''program to find if the entered number is even or odd'''
-# num1=eval(input('enter the number'))
-# if num1%2==0:
-#     print("number is even")
-# else:
-#     print('number is odd')
+num1=eval(input('enter the number'))
+if num1%2==0:
+    print("number is even")
+else:
+    print('number is odd')
 
 '''program to print the entered digit to word'''
 # num2=eval(input('enter any digit from 0 to 5'))

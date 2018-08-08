@@ -30,3 +30,4 @@ l[2]='baju'
 print(l[2])
 print(l)
 
+
