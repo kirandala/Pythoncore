@@ -1,10 +1,10 @@
 ''' a group of statments that are intended to perform a specific task '''
 
 ''' For any part of program which needs to be executed again and again we can use function 
-function and method are smae but when a function is written inside a class it is method and it can be called using 
+function and method are same but when a function is written inside a class it is method and it can be called using 
 object.methoname()
 classname.methodname()
-python defining a function using keyword def:
+python defining a function using keyword def :
 funtion body called suite nad first string is docstring
 we can return the results from a funciton using return statements 
 '''
