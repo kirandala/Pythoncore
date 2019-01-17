@@ -54,7 +54,6 @@ print('a4 count of 2 is ',b)
 print(' a4 after added 7 ',a4)
 a4.index(3) # returs the position of 3
 a4.reverse() # array will be reversed
-
 a4.remove(5)  # 5 will be removed
 a4.pop()
 print('a4 after removing 5 and the last element using pop and reversing the array',a4)
@@ -68,7 +67,7 @@ a4.insert(0,7) # 0 position add 7
   a4.fromlist(l)  appends items from list to a4
   a4.typecode - will represnt the type code character used to create the array a4
   a4.itemsize - will represent the size of tiems stored in the array(in bytes)
-   
+  
   '''
 ''' Program to enter the marks of student and print sum and average'''
 
