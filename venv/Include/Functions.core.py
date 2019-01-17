@@ -369,7 +369,7 @@ program to using filter out even numbers from a list
 # print(lst1)
 
 ''' lambdas with map() fun
-is similar to filter(0 but it acts on each element of the sequence and perhaps changes the elements
+is similar to filter() but it acts on each element of the sequence and perhaps changes the elements
 map(function,sequence)
 program to find sqared of elements in a list'''
 # def square(x):
@@ -385,6 +385,7 @@ program to find sqared of elements in a list'''
 # map(lambda x,y:x*y,lst1,lst2)
 
 '''reduce() funtion
-reduces a sequence of elements to a single value by processing the elements accordin to functions supplied
+reduces a sequence of elements to a single value by processing the elements according to functions supplied
 reduce(funtion,sequence)
 '''
+
